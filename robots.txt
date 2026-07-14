@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ep1sdu.privatetalks.online/sitemap.xml
